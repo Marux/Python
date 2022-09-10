@@ -6,13 +6,13 @@ print(' \______  /____/|__(____  / \____ |\___  > \____|__  /____/\___  / \____/
 print('        \/              \/       \/    \/          \/     /_____/                             \/           \/ ')
 
 def menu ():
-	print('(1) ejercicio 1')
-	print('(2) ejercicio 2')
-	print('(3) ejercicio 3')
-	print('(4) ejercicio 4')
-	print('(5) ejercicio 5')
-	print('(6) ejercicio 6')
-	print('(7) ejercicio 7')
+	print('(1) Sacar promedio de 3 notas')
+	print('(2) Compara tres valores y determinar cual es el mayor')
+	print('(3) Suma de enteros entre el 0 al 10')
+	print('(4) Determine si un numero ingresado es par o impar')
+	print('(5) Compara dos numeros para saber el mayor o menor')
+	print('(6) Transformar KM/s a MT/s')
+	print('(7) Promediar cierta cantidad de notas, este se detendra en si digita 0')
 	print('(0) precione 0 para salir')
 
 menu ()
