@@ -12,7 +12,7 @@ def menu ():
 	print('(4) Determine si un numero ingresado es par o impar')
 	print('(5) Compara dos numeros para saber el mayor o menor')
 	print('(6) Transformar KM/s a MT/s')
-	print('(7) Promediar cierta cantidad de notas, este se detendra en si digita 0')
+	print('(7) Promediar cierta cantidad de notas, este se detendra si digita 0')
 	print('(0) precione 0 para salir')
 
 menu ()
