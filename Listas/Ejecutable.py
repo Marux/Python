@@ -8,10 +8,7 @@ print(' _\ \/ /_/ / /__/ _// /|_/ /    / _/  ')
 print('/___/\____/____/___/_/  /_/_/|_/___/  ')
 print('                                      ')
 print('______________________________________________________________')
-print('Estructuras De Datos Y Algoritmos')
-print('Profesor:')
-print('Juan Rodrigo Cabello Silva <jcabello2@santotomas.cl>')
-print('______________________________________________________________')
+
 
 import menu as m
 import alumno as a
